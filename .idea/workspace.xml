@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5bb9989-9c76-4a75-b096-f562ddcbd02a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/themes/clean-blog/source/img/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/clean-blog/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/clean-blog/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/clean-blog/layout/_partial/footer.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/clean-blog/layout/_partial/footer.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/clean-blog/layout/_partial/head.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/clean-blog/layout/_partial/head.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/clean-blog/layout/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/clean-blog/layout/index.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/clean-blog/source/css/base.styl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/clean-blog/source/css/base.styl" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/blog/node_modules/" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/clean-blog/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.npmignore">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_admin-config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/hello-world.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="224">
+                <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/H5各种头部meta标签功能大全.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-1210">
+                <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="8" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/images/pasted-1.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/关于vue时间戳的封装.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="1876">
+                <caret line="67" column="3" selection-start-line="67" selection-start-column="3" selection-end-line="67" selection-end-column="3" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Home</find>
+      <find>Archives</find>
+      <find>share_cover</find>
+      <find>Configurable Tit</find>
+      <find>Configurable Title</find>
+      <find>page-heading</find>
+      <find>.intro-heade</find>
+      <find>.intro-header</find>
+      <find>url</find>
+      <find>menu_title</find>
+      <find>twitter_handle</find>
+      <find>contact-bg.jpg</find>
+      <find>theme</find>
+      <find>favicon</find>
+      <find>footer</find>
+      <find>categories</find>
+      <find>deploy</find>
+      <find>post-heading</find>
+      <find>55px</find>
+      <find>maximum-scale</find>
+      <find>sitemap</find>
+      <find>blog,博客,blog博客,blog博客新闻,blog博客资讯,blog博客信息,blog博客,前端博客,js,vue,node,npm,react,linux</find>
+      <find>&lt;meta name=”keywords” content=””/&gt;</find>
+      <find>description</find>
+      <find>post_asset_folder</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\1234\Desktop\bolg\themes\clean-blog</dir>
+      <dir>E:\web\bolg</dir>
+      <dir>E:\web\bolg\source</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/clean-blog" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/source/_posts/test.md" />
+        <option value="$PROJECT_DIR$/themes/clean-blog/layout/archive.ejs" />
+        <option value="$USER_HOME$/AppData/Local/Atlassian/SourceTree/accounts.json" />
+        <option value="$PROJECT_DIR$/source/_posts/hello-world.md" />
+        <option value="$PROJECT_DIR$/_admin-config.yml" />
+        <option value="$PROJECT_DIR$/source/categories/index.md" />
+        <option value="$PROJECT_DIR$/source/tags/index.md" />
+        <option value="$PROJECT_DIR$/themes/clean-blog/_config.yml" />
+        <option value="$PROJECT_DIR$/themes/clean-blog/source/css/base.styl" />
+        <option value="$PROJECT_DIR$/source/about/index.md" />
+        <option value="$PROJECT_DIR$/Live2D_SDK_WebGL_2.1.00_1_en/sample/sampleApp1/SampleApp1.html" />
+        <option value="$PROJECT_DIR$/themes/clean-blog/layout/index.ejs" />
+        <option value="$PROJECT_DIR$/themes/clean-blog/layout/_partial/sampleApp1/SampleApp1.html" />
+        <option value="$PROJECT_DIR$/themes/clean-blog/layout/_partial/SampleApp1.html" />
+        <option value="$PROJECT_DIR$/themes/clean-blog/layout/_partial/footer.ejs" />
+        <option value="$PROJECT_DIR$/.deploy_git/2019/05/30/H5各种头部meta标签功能大全/index.html" />
+        <option value="$PROJECT_DIR$/themes/clean-blog/layout/_partial/head.ejs" />
+        <option value="$PROJECT_DIR$/source/_posts/vue.md" />
+        <option value="$PROJECT_DIR$/source/_posts/H5各种头部meta标签功能大全.md" />
+        <option value="$PROJECT_DIR$/source/_posts/关于vue时间戳的封装.md" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="200" />
+    <option name="y" value="6" />
+    <option name="width" value="1555" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bolg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bolg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bolg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bolg" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bolg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bolg" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="2019" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bolg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bolg" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="2019" type="462c0819:PsiDirectoryNode" />
+              <item name="07" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bolg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bolg" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="2019" type="462c0819:PsiDirectoryNode" />
+              <item name="07" type="462c0819:PsiDirectoryNode" />
+              <item name="01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bolg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bolg" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="tags" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bolg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bolg" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bolg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bolg" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bolg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bolg" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="about" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bolg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bolg" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="categories" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bolg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bolg" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bolg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bolg" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bolg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bolg" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="clean-blog" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\1234\Desktop\bolg\Live2D_SDK_WebGL_2.1.00_1_en\sample" />
+      <recent name="C:\Users\1234\Desktop\bolg\source" />
+      <recent name="C:\Users\1234\Desktop\bolg\themes\clean-blog\source\img" />
+      <recent name="C:\Users\1234\Desktop\bolg\source\_posts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\1234\Desktop\bolg\Live2D_SDK_WebGL_2.1.00_1_en\sample" />
+      <recent name="C:\Users\1234\Desktop\bolg\Live2D_SDK_WebGL_2.1.00_1_en\sample\simple" />
+      <recent name="C:\Users\1234\Desktop\bolg\themes\clean-blog\layout\_partial\sampleApp1" />
+      <recent name="C:\Users\1234\Desktop\bolg\themes\clean-blog\layout\_partial" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5bb9989-9c76-4a75-b096-f562ddcbd02a" name="Default Changelist" comment="" />
+      <created>1558683115332</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558683115332</updated>
+      <workItem from="1558683117734" duration="7997000" />
+      <workItem from="1558751737685" duration="21550000" />
+      <workItem from="1558921595714" duration="30000" />
+      <workItem from="1559182157687" duration="4361000" />
+      <workItem from="1559444535380" duration="929000" />
+      <workItem from="1559626679128" duration="2432000" />
+      <workItem from="1559705748940" duration="83000" />
+      <workItem from="1561972027475" duration="5144000" />
+      <workItem from="1561978877487" duration="6000" />
+      <workItem from="1563954050559" duration="10000" />
+      <workItem from="1564454186228" duration="5077000" />
+      <workItem from="1564537273455" duration="998000" />
+      <workItem from="1564539126025" duration="363000" />
+      <workItem from="1564539508701" duration="565000" />
+      <workItem from="1564540085317" duration="2806000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="52351000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1938883" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49736565" visible="true" weight="0.51626897" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50263435" side_tool="true" visible="true" weight="0.51626897" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/source/_posts/test.md" />
+    <entry file="file://$PROJECT_DIR$/themes/clean-blog/languages/de.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/clean-blog/source/css/article.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-427" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/clean-blog/source/img/about-bg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/clean-blog/source/img/contact-bg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/clean-blog/source/img/home-bg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/clean-blog/layout/_partial/menu.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="82" selection-start-line="11" selection-start-column="72" selection-end-line="11" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/clean-blog/layout/_partial/article-archive.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Atlassian/SourceTree/accounts.json" />
+    <entry file="file://$PROJECT_DIR$/themes/clean-blog/source/css/style.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/My-New-Post.md" />
+    <entry file="file://$PROJECT_DIR$/public/sitemap.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/baidusitemap.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/clean-blog/source/css/base.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5247">
+          <caret line="159" column="20" selection-start-line="159" selection-start-column="20" selection-end-line="159" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Live2D_SDK_WebGL_2.1.00_1_en/sample/simple/simple.html" />
+    <entry file="file://$PROJECT_DIR$/source/sampleApp1/SampleApp1.html" />
+    <entry file="file://$PROJECT_DIR$/source/sampleApp1/src/utils/MatrixStack.js" />
+    <entry file="file://$PROJECT_DIR$/themes/clean-blog/layout/_partial/sampleApp1/assets/image/back_class_normal.png" />
+    <entry file="file://$PROJECT_DIR$/themes/clean-blog/layout/_partial/sampleApp1/src/utils/MatrixStack.js" />
+    <entry file="file://$PROJECT_DIR$/themes/clean-blog/layout/_partial/sampleApp1/SampleApp1.html" />
+    <entry file="file://$PROJECT_DIR$/Live2D_SDK_WebGL_2.1.00_1_en/sample/SimpleMultiCanvas/simple.html" />
+    <entry file="file://$PROJECT_DIR$/themes/clean-blog/layout/_partial/footer.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14652" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/tags/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="66">
+            <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/categories/index-1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/categories/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/about/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-379">
+            <caret line="15" selection-start-line="15" selection-end-line="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/clean-blog/layout/post.ejs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/clean-blog/layout/page.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1452">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/clean-blog/layout/layout.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-364" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/clean-blog/layout/archive.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-331">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/clean-blog/layout/index.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-265">
+          <caret line="9" column="49" lean-forward="true" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scaffolds/draft.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scaffolds/post.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret selection-end-line="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scaffolds/page.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/clean-blog/layout/_partial/head.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="6" column="94" selection-start-line="6" selection-start-column="94" selection-end-line="6" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.deploy_git/2019/05/30/H5各种头部meta标签功能大全/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#8813#8817#0" expanded="true" />
+            <element signature="e#8830#8834#0" expanded="true" />
+            <element signature="e#8926#8930#0" expanded="true" />
+            <element signature="e#8944#8948#0" expanded="true" />
+            <element signature="e#9022#9026#0" expanded="true" />
+            <element signature="e#9046#9050#0" expanded="true" />
+            <element signature="e#9125#9129#0" expanded="true" />
+            <element signature="e#9190#9194#0" expanded="true" />
+            <element signature="e#9277#9281#0" expanded="true" />
+            <element signature="e#9325#9329#0" expanded="true" />
+            <element signature="e#9400#9404#0" expanded="true" />
+            <element signature="e#9436#9440#0" expanded="true" />
+            <element signature="e#9511#9515#0" expanded="true" />
+            <element signature="e#9566#9570#0" expanded="true" />
+            <element signature="e#9638#9642#0" expanded="true" />
+            <element signature="e#9684#9688#0" expanded="true" />
+            <element signature="e#9760#9764#0" expanded="true" />
+            <element signature="e#9862#9866#0" expanded="true" />
+            <element signature="e#9943#9947#0" expanded="true" />
+            <element signature="e#9998#10002#0" expanded="true" />
+            <element signature="e#10075#10079#0" expanded="true" />
+            <element signature="e#10134#10138#0" expanded="true" />
+            <element signature="e#10310#10314#0" expanded="true" />
+            <element signature="e#10424#10428#0" expanded="true" />
+            <element signature="e#10592#10596#0" expanded="true" />
+            <element signature="e#10662#10666#0" expanded="true" />
+            <element signature="e#10726#10730#0" expanded="true" />
+            <element signature="e#10791#10795#0" expanded="true" />
+            <element signature="e#10866#10870#0" expanded="true" />
+            <element signature="e#10907#10911#0" expanded="true" />
+            <element signature="e#10994#10998#0" expanded="true" />
+            <element signature="e#11049#11053#0" expanded="true" />
+            <element signature="e#11128#11132#0" expanded="true" />
+            <element signature="e#11186#11190#0" expanded="true" />
+            <element signature="e#11260#11264#0" expanded="true" />
+            <element signature="e#11336#11340#0" expanded="true" />
+            <element signature="e#11443#11447#0" expanded="true" />
+            <element signature="e#11488#11492#0" expanded="true" />
+            <element signature="e#11563#11567#0" expanded="true" />
+            <element signature="e#11616#11620#0" expanded="true" />
+            <element signature="e#11689#11693#0" expanded="true" />
+            <element signature="e#11738#11742#0" expanded="true" />
+            <element signature="e#11812#11816#0" expanded="true" />
+            <element signature="e#11853#11857#0" expanded="true" />
+            <element signature="e#11937#11941#0" expanded="true" />
+            <element signature="e#12010#12014#0" expanded="true" />
+            <element signature="e#12087#12091#0" expanded="true" />
+            <element signature="e#12136#12140#0" expanded="true" />
+            <element signature="e#12209#12213#0" expanded="true" />
+            <element signature="e#12251#12255#0" expanded="true" />
+            <element signature="e#12325#12329#0" expanded="true" />
+            <element signature="e#12381#12385#0" expanded="true" />
+            <element signature="e#12535#12539#0" expanded="true" />
+            <element signature="e#12582#12586#0" expanded="true" />
+            <element signature="e#12646#12650#0" expanded="true" />
+            <element signature="e#12700#12704#0" expanded="true" />
+            <element signature="e#12764#12768#0" expanded="true" />
+            <element signature="e#12805#12809#0" expanded="true" />
+            <element signature="e#16021#16027#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/images/pasted-0.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/vue.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="308">
+            <caret line="11" selection-start-line="11" selection-end-line="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/clean-blog/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="5292">
+            <caret line="189" column="6" selection-start-line="189" selection-start-column="2" selection-end-line="189" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/hello-world.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="224">
+            <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/images/pasted-1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/关于vue时间戳的封装.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1876">
+            <caret line="67" column="3" selection-start-line="67" selection-start-column="3" selection-end-line="67" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/H5各种头部meta标签功能大全.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-1210">
+            <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/clean-blog/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_admin-config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.npmignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
